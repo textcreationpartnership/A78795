@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious ansvver to the message sent from the honourable Citie of London, concerning peace. Delivered by the Right Honourable the Lord Viscount Faukland, Principall Secretarie of State. As it was spoken by his Majestie to the said secretarie. The true copie.</title>
+            <author>Glapthorne, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78795</idno>
+            <idno type="STC">Wing C2320</idno>
+            <idno type="STC">Thomason E84_41</idno>
+            <idno type="EEBO-CITATION">99872806</idno>
+            <idno type="PROQUEST">99872806</idno>
+            <idno type="VID">155660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155660)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious ansvver to the message sent from the honourable Citie of London, concerning peace. Delivered by the Right Honourable the Lord Viscount Faukland, Principall Secretarie of State. As it was spoken by his Majestie to the said secretarie. The true copie.</title>
+                  <author>Glapthorne, Henry.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Thomas Massam,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>One of several peace pamphlets of early 1643 issued falsely in the King's name, this one is in answer to "The humble petition of the major, aldermen, and commons of the city of London to His Majesty .." of 2 Jan. 1643, dated by Thomason 11 Jan. 1643.</note>
+                  <note>On the questions of authorship and circumstances of publication see J.H. Walter, Henry Glapthorne, Times literary supplement, 19 September, 1936, p. 748, Chester L. Shaver, The life and works of Henry Glapthorne, Harvard Ph. D. thesis, 1837, p. 119-123, and the Journal of the House of Lords, V, 533, 547, 596-8.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Jan: 11th 1642".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Falkland, Lucius Cary, --  Viscount, 1610?-1643 --  Early works to 1800.</term>
+               <term>London (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155660:1" rendition="simple:additions"/>
+            <p>HIS
+MAIESTIES
+Gracious Anſvver
+TO
+The Meſſage ſent from the Honou<g ref="char:EOLhyphen"/>rable
+Citie of
+<hi>LONDON,</hi>
+Concerning
+PEACE.</p>
+            <p>Delivered by the Right Honoura<g ref="char:EOLhyphen"/>ble
+the Lord Viſcount <hi>Faukland,</hi>
+Principall Secretarie of State.</p>
+            <p>As it was ſpoken by his Majeſtie to
+the ſaid Secretarie.</p>
+            <p>The true Copie.</p>
+            <p>Printed at London for <hi>Thomas Maſſam.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:155660:2"/>
+            <pb n="3" facs="tcp:155660:2"/>
+            <head>His Majeſties gracious Anſwer to
+the Meſſage ſent from the Honourable
+Citie of LONDON concerning
+PEACE.</head>
+            <opener>
+               <salute>Mr. Secretarie:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou could not have preſented Us any ob<g ref="char:EOLhyphen"/>ject
+of more welcome conſequence, than
+thoſe deſires of our well reſpected Citie
+of London, of which wee have alwayes
+retained that good opinion, that it was
+as impoſſible for the Inhabitants of that
+our Capitall Citie, to forget their duties
+and due reſpects to Us their King, as it was impoſſible for
+Us to give off the juſt opinion Wee have alwayes had of
+their loyaltie to Us, or the good affections We have alwayes
+held of them, the maine Upholders of the dignitie of our
+Kingdome: the wealth of that Citie is not unknowne to
+Us, nor the zeale We have found continually in them to our
+ſervice. Neither are We ignorant of the many notable ſup<g ref="char:EOLhyphen"/>plyes
+our Anceſtours have received from their contributions
+<pb n="4" facs="tcp:155660:3"/>
+to the maintenance of the wars in forraine parts. All which
+conſiderations meeting with our owne royall inclinations
+to the weale and commoditie of that Citie, muſt needs ren<g ref="char:EOLhyphen"/>der
+Us verie willing and concurrent to any propoſitions
+which ſhall arrive from them, concerning an accommoda<g ref="char:EOLhyphen"/>tion
+for peace, which Wee have alwayes coveted with as
+much ardour, as We have deteſted the miſeries and oppreſ<g ref="char:EOLhyphen"/>ſions
+of this preſent war, this lamentable and calamitous
+civill war, which hath unmade the peace and ſafetie of our
+Kingdome; nay, as it were, uncreated our native royaltie,
+dependent upon Us from our Anceſtours, and left Us a
+King in title rather than in eſſence, the beſt Pillars of our
+Kingdome being ſhrunk from Us, our High Court of Par<g ref="char:EOLhyphen"/>liament,
+whom had Wee never ſo unfortunately, by ſome
+idle mutinous ſpirits, been as it were enforced to deſert,
+when Wee were in a manner driven from our palace at
+White-Hall, our ſubjects had not in ſuch numbers relinqui<g ref="char:EOLhyphen"/>ſhed
+Us. But Wee hope the beſt; time, moderation, and
+good counſell will give a happie period to theſe diſtractions
+which the preſent wars doe continue, to the deſtruction of
+our people and diminution of our regall eſtate and dignitie.
+We are ſenſible of the horrid and great afflictions and op<g ref="char:EOLhyphen"/>preſſions,
+that like fatall clouds over-ſhadow the face of our
+Dominions, the many bloud-ſheds, rapines and ſpoyles,
+which have been acted upon the perſons and eſtates of our
+good ſubjects, eſpecially the detriments that have fallen
+with a heavie hand upon our Citie of London. Wee know
+theſe wars have deprived the Merchant of the benefit of
+exporting his commodities into forraine parts, and impor<g ref="char:EOLhyphen"/>ting
+others from thence into our Citie of London, which
+muſt needs occaſion a generall defect of trade there, which
+hath been ever held the chiefe ſupportment and encreaſe of
+the riches of our Engliſh Common-wealth, which as rivers
+derive themſelves from fountaines, have been devolved tho<g ref="char:EOLhyphen"/>row
+all our Dominions from London; it being the ſpring
+<pb n="5" facs="tcp:155660:3"/>
+of commerce and traffique, that flowes thorow all parts of
+this Nation. But ſurely Wee have juſt occaſion in this to
+vindicate Our Selves, that We have never in our ſoule oc<g ref="char:EOLhyphen"/>caſioned
+theſe fatall miſeries; violence in ſome, and miſ-un<g ref="char:EOLhyphen"/>derſtanding
+in others, having begot theſe <hi>Hyara</hi>-headed con<g ref="char:EOLhyphen"/>fuſions,
+which Heaven no longer proſper Us, than We ſhall
+with our utmoſt endevour ſtrive to reduce to a ſudden and
+certaine concluſion, that all our people may evidently per<g ref="char:EOLhyphen"/>ceive
+We deſire no longer to be eſteemed their Soveraigne,
+than we ſhall give them occaſion to credit We intend meer<g ref="char:EOLhyphen"/>ly
+their advancement, peace, and profit.</p>
+            <p>Subjects are a Kings beſt inheritance, the flower of his
+Crowne, and glorie of his Scepter; which far be it from all
+juſt Kings (and Wee include Our Selfe in that number) to
+abridge or violate: the fundamentall Lawes of this King<g ref="char:EOLhyphen"/>dome,
+We have ever maintained, and ſo ſhall ever do, with
+our beſt abilities and power, the priviledges of our High
+Court of Parliament, and the libertie and the propertie of
+the Subject: In eſpeciall, the Immunities and Franchiſes of
+our Citie of London, which Wee alwayes eſteemed ſo pre<g ref="char:EOLhyphen"/>cious
+in our thoughts, that Wee ſhall ſtudy alwayes to aug<g ref="char:EOLhyphen"/>ment
+rather than decreaſe them. You have, Mr. Secretarie,
+delivered Us the intentions of our Citie of London, preſen<g ref="char:EOLhyphen"/>ted
+by their Agents now in our Court, the maine of which
+(as you have delivered to Us) is that Wee would pleaſe to
+let them underſtand, whether We will receive any propoſi<g ref="char:EOLhyphen"/>tions
+from our ſaid Citie, concerning an accommodation of
+peace betweene Us and our High Court of Parliament.
+Certainly Wee ſhould appeare a ſtrange and publike enemy
+to Our Selfe, the peace and proſperitie of our Kingdome and
+People, ſhould We neglect to embrace any ſuch juſt and ho<g ref="char:EOLhyphen"/>neſt
+propoſitions.</p>
+            <p>We are aſſured, ſince our City of London can deſire this re<g ref="char:EOLhyphen"/>ally
+&amp; heartily, as by this expreſſe is manifeſted, the reſt of our
+People, Cities, and Corporations, muſt be of the ſame mind;
+<pb n="6" facs="tcp:155660:4"/>
+and ſurely Our high Court of Parliament muſt needs con<g ref="char:EOLhyphen"/>curre
+with them in the ſame intentions, they having by di<g ref="char:EOLhyphen"/>vers
+of their Declarations given the world to underſtand,
+that they have made it the maine cauſe of their endevours,
+to ſeek peace and enſue it. We do therefore (Maſter Secre<g ref="char:EOLhyphen"/>tary)
+give you to underſtand Our Royall will and pleaſure,
+concerning this precedent point of their Meſſage, that Wee
+ſhall not onely be ready to receive graciouſly any ſuch Pro<g ref="char:EOLhyphen"/>poſitions
+for an Accommodation of Peace between Our ſelf
+and Our high Court of Parliament; (for We have much and
+evident reaſon, when We ſee Our Kingdome torne in pieces
+by theſe civill diſſenſions, Our People up in Armes one
+againſt another, and ſhedding the blood of each other, who
+are all Our native ſubjects; Our Townes, Cities, and Villa<g ref="char:EOLhyphen"/>ges
+impoveriſhed by daily plundrings, firings, and outrages)
+but likewiſe to propound them Our ſelves. The true Religi<g ref="char:EOLhyphen"/>on
+of God Almighty lies and languiſhes under a ſtorme of
+fatall ſchiſmes and opinions; Our owne Royalty hath not
+halfe its wonted attributes, its traine or attendants; Our
+Lawes are neglected, Lawes, which are the Enſignes of
+Majeſty, and the immediate Miniſters of Our Juſtice, the
+ſafeguard and patrimony of Our Subjects, and the ſtaffe and
+upholder of their liberties. We muſt therefore, conſidering
+all the fatall misfortunes and incombrances of a civill War,
+and the immediate bleſſings and over-flowing benefits of a
+ſetled and continued Peace, have rather a greater propen<g ref="char:EOLhyphen"/>ſion
+in Our ſelfe to peace, then can be any way in any of Our
+People, We being divers wayes more intereſſed in the com<g ref="char:EOLhyphen"/>mon
+utility then they can be poſſible.</p>
+            <p>Never had any (We may ſpeak that without any partiall
+boaſt) more deſires to acquire and atchieve the good
+of his ſubjects, then Our ſelfe; nor ever hath any King been
+more croſſed in his determinations and intentions then Our
+ſelfe, frequent and fatall jealouſies ariſing betweene Our
+high Court of Parliament and Our ſelfe, which have thus
+<pb n="7" facs="tcp:155660:4"/>
+long ſeparated Us from the body of Our Kingdom, and Our
+Kingdome from Us.</p>
+            <p>The Parliament We will not blame, nor by any meanes
+ſeeke to rip up old diſcontents betwixt Us; would they had
+never been, or at leaſt ſo ended now, that by an abſolute
+Act of oblivion they were utterly forgotten; We ſhall la<g ref="char:EOLhyphen"/>bour
+to throw balme and oyle into the wounds of the Com<g ref="char:EOLhyphen"/>mon-wealth,
+and ſo comply with the deſires both of Our
+Parliament and Our City of London, that if it be poſſible a
+ſuddain and happy Union may once more be knit up betwixt
+Us; that all the inconveniences happening to the Common-wealth
+by theſe intemperate diſtractions, may be utterly wi<g ref="char:EOLhyphen"/>ped
+away from the face of Our Engliſh Earth, and that We
+may live to govern the Natives of this Iſland as their King,
+and they live to honour and obey Us as Our People.</p>
+            <p>Furthermore (Maſter Secretary) We would have you in<g ref="char:EOLhyphen"/>timate
+to theſe Agents from Our City of London, that We
+in all love embrace their requeſt, concerning Our returne to
+Our ſaid City and Parliament, and would have them beleeve
+it were far more correſpondent to be in quiet at White-hall,
+Hampton Court, or any of Our Palaces thereabout, then
+here at Oxford; where though We have all the accommo<g ref="char:EOLhyphen"/>dation
+the countrey can affoord, yet doe they not counter<g ref="char:EOLhyphen"/>vaile
+with thoſe We could have (as We are confident) in or
+about Our City of London, which hath alwayes been the
+ſupreme chamber of Our Anceſtors, and Our owne beſt be<g ref="char:EOLhyphen"/>loved
+reſidence, till theſe fatall ſtirres diſ-united us, and for<g ref="char:EOLhyphen"/>ced
+Us to depart from thence; whither (you may certifie
+them) We would with as much willingneſſe return, as ever
+We did in time of the happieſt tranquillity from any of Our
+ſedentary Progreſſes, never beleeving Our Perſon in more
+or better ſecurity, then when guarded with the faithfull
+hearts and valiant hands of thoſe couragious and well-expe<g ref="char:EOLhyphen"/>rienced
+Citizens, who have alwayes had and ever ſhall have
+a neare and deare roome in Our Royall intention and well-wiſhes.
+<pb n="8" facs="tcp:155660:5"/>
+But ſuch is the neceſſity of Our affaires, ſo urgent
+the conſequence of Our preſence to Our Army, that We are
+utterly impoſſibilited of transferring Our Perſon from them,
+who conceiving themſelves diſcountenanced and neglected
+by Our abſence, would be very apt to grow into dangerous
+diſtempers. But for their <hi>Propoſitions concerning an Accom<g ref="char:EOLhyphen"/>modation
+of Peace,</hi> let them be ſent to Us, and We ſhall give
+them ſo ample and gracious hearing as ſhall be fit Us to give,
+and them to receive: And as ſoone as things ſhall by faire
+treaty be made ripe for an enter view between Our ſelfe and
+Parliament, We ſhall with all convenient haſte repaire (ac<g ref="char:EOLhyphen"/>cording
+to their deſires) to Our City of London. In the
+meane time, deſire them from Us to continue their good in<g ref="char:EOLhyphen"/>tentions
+concerning Peace, and We ſhall eſteeme it a prin<g ref="char:EOLhyphen"/>cipall
+demonſtration of their loyalty towards Us, and ever
+ſtudy the advancement of their City, and the whole Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
